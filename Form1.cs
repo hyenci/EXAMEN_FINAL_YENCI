@@ -82,40 +82,58 @@ namespace EXAMEN_FINAL_YEN
             DateTime Fecha_De_ingreso = dateTimeFECHA_CREAR.Value;
             bool Disponibilidad = checkDisponibildad.Checked;
 
-          
-            DialogResult resultado = MessageBox.Show("¿Está seguro de que desea crear un nuevo artículo?", "Confirmar creación", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-
-            if (resultado == DialogResult.Yes) 
-
+            if (Text_Codi.Text == "" || textboxnombreArticulo.Text == "" || textboxTalla.Text == "" || textboxColor.Text == "" || textboxMaterial.Text == "" || precio_CAJA.Value == 0)
             {
-                
-
-                int respuesta = articulo1.CrearArticulo(codigo, Nombre_Articulo, Talla, Color, Material, Precio, Fecha_De_ingreso, Disponibilidad);
-
-                if (respuesta > 0)
-                {
-                    
-
-                    MessageBox.Show("Artículo creado correctamente");
-
-                   
-
-                    Tabla_datos_ver.DataSource = respuesta;
-                }
-                else
-                {
-                   
-
-                    MessageBox.Show("Error al crear el artículo");
-                }
+                MessageBox.Show("UN CAMPO ESTA VACIO, POR FAVOR LLENARLO");
             }
             else
-
             {
-                
+                DialogResult resultado = MessageBox.Show("¿Está seguro de que desea crear un nuevo artículo?", "Confirmar creación", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
 
-                MessageBox.Show("Creación cancelada");
+                if (resultado == DialogResult.Yes)
+
+                {
+
+
+                    int respuesta = articulo1.CrearArticulo(codigo, Nombre_Articulo, Talla, Color, Material, Precio, Fecha_De_ingreso, Disponibilidad);
+
+                    if (respuesta > 0)
+                    {
+
+
+                        MessageBox.Show("Artículo creado correctamente");
+
+
+
+                        Tabla_datos_ver.DataSource = respuesta;
+                    }
+                    else
+                    {
+
+
+                        MessageBox.Show("Error al crear el artículo");
+                    }
+                }
+                else
+
+                {
+
+
+                    MessageBox.Show("Creación cancelada");
+
+
+
+
+                }
             }
+
+           
+
+
+
+
+
+
 
 
         }
@@ -266,6 +284,30 @@ namespace EXAMEN_FINAL_YEN
 
         }
 
-        
+        private void label7_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            textboxTalla.Clear();
+            textboxnombreArticulo.Clear();
+            textboxMaterial.Clear();
+            textboxColor.Clear();
+            Text_Codi.Clear();
+            precio_CAJA.Value = 0;
+            checkDisponibildad.Checked = false;
+
+            dateTimeFECHA_CREAR.Value = DateTime.Now;
+
+
+            Tabla_datos_ver.DataSource = null;
+        }
     }
 }

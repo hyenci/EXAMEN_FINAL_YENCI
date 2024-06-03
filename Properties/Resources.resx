@@ -118,7 +118,85 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="modaaa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\modaaa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Post de Instagram descuentos moda collage moderno" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Post de Instagram descuentos moda collage moderno.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hello" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hello.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Historia de Instagram Collage de Fotos Tienda Nueva Colección MInimalista  (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Historia de Instagram Collage de Fotos Tienda Nueva Colección MInimalista  (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sisiisi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sisiisi.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="boton entrar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\boton entrar.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Logo Tipográfico Marca Personal Divertido Colorido Rosa Fucsia Blanco" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logo Tipográfico Marca Personal Divertido Colorido Rosa Fucsia Blanco.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Logo Tipográfico Marca Personal Divertido Colorido Rosa Fucsia Blanco (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logo Tipográfico Marca Personal Divertido Colorido Rosa Fucsia Blanco (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hello2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hello2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="usi2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\usi2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frases instagram 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frases instagram 2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2222" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2222.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="azuuuul" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\azuuuul.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hola2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hola2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hola1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hola1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Usuario" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Usuario.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="color boton" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\color boton.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="azuuuul1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\azuuuul1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hola" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hola.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="b9b3dfb6e5afbe1b0c2de51fba05e2d2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\b9b3dfb6e5afbe1b0c2de51fba05e2d2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hola21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hola21.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Historia de Instagram Collage de Fotos Tienda Nueva Colección MInimalista  (1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Historia de Instagram Collage de Fotos Tienda Nueva Colección MInimalista  (1)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Logo Tipográfico Marca Personal Divertido Colorido Rosa Fucsia Blanco (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logo Tipográfico Marca Personal Divertido Colorido Rosa Fucsia Blanco (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="boton entrar1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\boton entrar1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yenciiiii12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yenciiiii12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
