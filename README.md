@@ -1,0 +1,1 @@
+Este proyecto es una combinación de mysql y visual estudio, en el cual realizamos una interfaz para una tienda de Ropa llamada Maddys, donde el obejtivo era mostrar la mercaderia y Articulos disponibles en la tienda asi como agregar nuevos e eliminar algunos.
